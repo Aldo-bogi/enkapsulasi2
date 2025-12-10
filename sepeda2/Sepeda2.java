@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package zahirdefault.sepeda2;
+package aldodefault.sepeda2;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class Sepeda2 {
      public String kode;
